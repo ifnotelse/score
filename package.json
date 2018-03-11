@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ifnotelse/score/issues"
   },
-  "homepage": "https://github.com/ifnotelse/score#readme"
+  "homepage": "https://github.com/ifnotelse/score#readme",
+  "dependencies": {
+    "express": "^4.10.8"
+  }
 }
